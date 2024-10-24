@@ -1,9 +1,6 @@
-<div align="center">
-   <h1>Hi there, I'm Yanheng Cai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<div align="center" xmlns="http://www.w3.org/1999/html">
+   <h1>Hi there, I'm <font color="#46A6E9">Yanheng Cai</font> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-
----
-
 
 ### *Undergraduate Student*
 
