@@ -1,17 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&repeat=false&width=435&lines=Hello+there!+I'm+Yanheng+Cai+%3Awave%3A" alt="Typing SVG" /></a>
+<div align="center">
+   <h1>Hi there, I'm Yanheng Cai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
 ---
 
-### *Undergraduate Student* of  :computer: Softwade Engineering
 
-Beihang University :airplane:
+### *Undergraduate Student*
 
-37 Xueyuan Rd., Haidian Dist.
+majoring in :computer: **Softwade Engineering**
 
-Beijing, China, 100191
+:airplane: Beihang University
+
+:round_pushpin: 37 Xueyuan Rd., Haidian Dist.
+
+ :cn: Beijing, China
+
+Postal Code: 100191
 
 ## Education
 
-- 2023.09 - *Present* School of Software, Beihang University B.Eng.
+- 2023.09 - *Present* School of Software, Beihang University B. Eng. Student
 
 ## Skills
 
@@ -19,4 +27,6 @@ Beijing, China, 100191
 - Programming Language: C/C++; Java
 - Typesetting Language: Markdown; LaTeX
 
+## Research and Internship Experience
 
+- 2024.10 - *Present*: Intern at ACT Lab, Beihang University, focusing on Time Series projects.
