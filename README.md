@@ -1,16 +1,22 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&repeat=false&width=435&lines=Hello+there!+I'm+Yanheng+Cai+%3Awave%3A" alt="Typing SVG" /></a>
+---
 
-<!--
-**charcai/charcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Undergraduate Student* of  :computer: Softwade Engineering
 
-Here are some ideas to get you started:
+Beihang University :airplane:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+37 Xueyuan Rd., Haidian Dist.
+
+Beijing, China, 100191
+
+## Education
+
+- 2023.09 - *Present* School of Software, Beihang University B.Eng.
+
+## Skills
+
+- Natural Language: Chinese (Native); English (CET-6)
+- Programming Language: C/C++; Java
+- Typesetting Language: Markdown; LaTeX
+
+
