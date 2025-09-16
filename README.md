@@ -16,7 +16,7 @@ Postal Code: 100191
 
 ## Education
 
-- 2023.09 - *Present* School of Software, Beihang University B. Eng. Student
+- 2023.09 - *Present*: School of Software, Beihang University B. Eng. Student
 
 ## Skills
 
@@ -26,4 +26,4 @@ Postal Code: 100191
 
 ## Research and Internship Experience
 
-- 2024.10 - *Present*: Intern at ACT Lab, Beihang University, focusing on Time Series projects.
+- 2024.10 - 2025.09: Intern at ACT Lab, Beihang University, focusing on Time Series projects.
